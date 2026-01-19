@@ -1,12 +1,10 @@
-[![MasterHead](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)](https://ashujha301.io)
-
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
 <h3 align="center">Enthusiastic about Developing Web, Mobile, and AI/ML Experiences.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashujha301&label=Welcome%20to%20my%20profile!%20I%20have%20been%20visited&color=5bc0de&style=flat-square&label=Profile%20views:%20" alt="ashujha301" />
 
-- 🌱 I’m currently learning **MERN , Flutter and Tensorflow.**
+- 🌱 I’m currently learning **MLOps , Machine Learning and System Design.**
 
 - 📫 How to reach me **ashujha301@gmail.com**
 
